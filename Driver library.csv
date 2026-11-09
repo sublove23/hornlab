@@ -1,0 +1,430 @@
+Brand,Model,Type,Size_in,Sd_cm2,Bl_Tm,Cms_m_per_N,Rms_kg_per_s,Mmd_g,Le_mH,Re_ohm,Pmax_W,Xmax_mm,Note,Source
+B&C,4NDF34-8,midbass,4,57,9,0.0003432,1.004,5.6,0.23,5.5,100,3.8,,https://www.bcspeakers.com/en/products/lf-driver/4/8/4NDF34
+B&C,4NDS34-8,woofer,4,57,8.8,0.0005637,0.42,6.7,0.21,5.5,100,3.8,,https://www.bcspeakers.com/en/products/lf-driver/4/8/4NDS34
+B&C,5FG44-16,woofer,5,92,11.6,0.0004308,0.503,10.98,0.8,11.1,100,3,,https://www.bcspeakers.com/en/products/lf-driver/5/16/5FG44
+B&C,5FG44-8,woofer,5,95.0,10.0,0.0005318,0.475,10.93,0.8,5.8,100,3.0,,https://www.bcspeakers.com/en/products/lf-driver/5/8/5FG44
+B&C,5MDN38-16,midrange,5,95,15,5.985e-05,3.854,6.93,0.7,11.7,100,3.5,,https://www.bcspeakers.com/en/products/lf-driver/5/16/5MDN38
+B&C,5MDN38-8,midrange,5,95,11.1,0.0001034,3.825,6.93,0.4,5.5,90,3.5,,https://www.bcspeakers.com/en/products/lf-driver/5/8/5MDN38
+B&C,5NDL38-8,woofer,5,95,9.2,0.0003598,0.601,9.93,0.64,5.5,90,3.5,,https://www.bcspeakers.com/en/products/lf-driver/5/8/5NDL38
+B&C,5NSM38-16,midrange,5,95,11.7,2.876e-05,3.843,7.53,0.2,9.3,110,2.2,,https://www.bcspeakers.com/en/products/lf-driver/5/16/5NSM38
+B&C,5NSM38-8,midrange,5,95,10.1,2.493e-05,4.75,7.93,0.17,5.2,110,2.2,,https://www.bcspeakers.com/en/products/lf-driver/5/8/5NSM38
+B&C,6CLA51-16,woofer,6.5,132,12.8,0.0002284,2.007,12.25,1.25,9.7,250,5.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/16/6CLA51
+B&C,6CLA51-8,woofer,6.5,132,11.4,0.0001832,3.12,13.25,0.9,5,250,4.8,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6CLA51
+B&C,6MBX44-16,midbass,6.5,132,14.7,0.0001596,2.99,10.25,0.34,10.4,200,3.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/16/6MBX44
+B&C,6MBX44-8,midbass,6.5,132,11.7,0.0001653,2.185,10.25,0.2,5.4,200,3.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6MBX44
+B&C,6MD38-16,midrange,6.5,132,14.5,0.0001023,3.703,9.25,0.4,11.7,120,3.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/16/6MD38
+B&C,6MD38-8,midrange,6.5,132,10.5,0.0001249,2.649,10.25,0.25,5.7,120,2,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6MD38
+B&C,6MDN44-16,midrange,6.5,132,14.5,0.0001108,3.468,10.25,0.56,11.8,200,3,,https://www.bcspeakers.com/en/products/lf-driver/6-5/16/6MDN44
+B&C,6MDN44-8,midrange,6.5,132,11,0.0001175,3.456,9.25,0.47,5.4,200,2.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6MDN44
+B&C,6NDL38-16,woofer,6.5,132,11.7,0.0003446,0.641,13.25,1,11.3,150,6,,https://www.bcspeakers.com/en/products/lf-driver/6-5/16/6NDL38
+B&C,6NDL38-4,woofer,6.5,132,7.8,0.0002956,0.776,16.25,0.4,3.1,150,6,,https://www.bcspeakers.com/en/products/lf-driver/6-5/4/6NDL38
+B&C,6NDL38-8,woofer,6.5,132,9.5,0.0002874,0.669,15.25,0.6,5.2,150,6,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6NDL38
+B&C,6NSM51-8,midrange,6.5,143,13.9,2.393e-05,4.398,11.53,0.15,5.4,250,2.8,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6NSM51
+B&C,6PEV13-8,midrange,6.5,132,8.2,0.0002659,1.033,4.25,0.6,5.2,120,2.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6PEV13
+B&C,6PS38-8,woofer,6.5,132,10.8,0.0003217,0.564,12.25,0.6,5.4,150,6,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6PS38
+B&C,6PS44-8,woofer,6.5,132,11,0.0002792,0.642,16.25,0.7,5.3,200,4.5,,https://www.bcspeakers.com/en/products/lf-driver/6-5/8/6PS44
+B&C,8BG51-8,woofer,8,220,11.8,0.0002676,0.93,31.23,0.5,5.1,250,6.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8BG51
+B&C,8CL51-16,woofer,8,220,16.1,0.0001414,1.523,22.23,0.9,10.1,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8CL51
+B&C,8CL51-8,woofer,8,220,12,0.0001835,2.245,25.23,0.5,5.1,200,6.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8CL51
+B&C,8CLA64-8,woofer,8,220,16.4,0.0001861,1.65,23.23,1,5.6,250,5.3,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8CLA64
+B&C,8FG51-8,woofer,8,220,12.9,0.0003014,1.197,31.23,0.5,5.1,250,6.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8FG51
+B&C,8FG64-16,sub,8,220,19.8,0.0002505,1.285,32.23,2.9,11.9,300,7.5,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8FG64
+B&C,8FG64-8,sub,8,220,15.8,0.0002375,1.301,37.23,1.7,5.8,300,7,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8FG64
+B&C,8FMB51-16,midbass,8,227,13.73,0.0002781,2.053,15.75,0.83,9.8,250,5.5,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8FMB51
+B&C,8FMB51-8,midbass,8,227,11.3,0.0002793,2.77,16.25,0.48,4.7,250,5.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8FMB51
+B&C,8FW51-8,woofer,8,220,17.7,0.0001713,1.35,23.23,0.56,5.2,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8FW51
+B&C,8MBX51-16,midbass,8,220,13.7,0.0002977,2.382,14.63,0.65,10.2,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8MBX51
+B&C,8MBX51-8,midbass,8,220,11.4,0.0003518,1.346,16.23,0.4,4.9,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8MBX51
+B&C,8MDN51-16,midbass,8,220,17.8,0.000249,1.808,18.23,1.25,10,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8MDN51
+B&C,8MDN51-8,midbass,8,220,15.3,0.0002248,2.734,19.23,0.8,5.1,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8MDN51
+B&C,8NDL51-16,woofer,8,220,15.2,0.0001988,1.945,22.23,0.6,10.6,200,7,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8NDL51
+B&C,8NDL51-4,woofer,8,220,7.3,0.0001668,2.437,23.23,0.15,2.6,200,7,,https://www.bcspeakers.com/en/products/lf-driver/8/4/8NDL51
+B&C,8NDL51-8,woofer,8,220,12.4,0.0002077,3.225,24.23,0.5,5.3,200,7,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8NDL51
+B&C,8NDL64-16,woofer,8,220,24,0.000176,1.821,23.23,1.03,11.2,350,4.5,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8NDL64
+B&C,8NDL64-8,woofer,8,220,17.5,0.0001414,1.29,24.23,0.62,5.4,350,4.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8NDL64
+B&C,8NSM64-16,midrange,8,220,28,2.221e-05,2.867,15.23,1.9,10.9,250,2,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8NSM64
+B&C,8NSM64-8,midrange,8,220,22,2.221e-05,3.145,15.23,0.6,5.7,250,2,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8NSM64
+B&C,8NW51-16,woofer,8,220,23,0.0002029,1.831,23.23,0.4,10.7,200,7,,https://www.bcspeakers.com/en/products/lf-driver/8/16/8NW51
+B&C,8NW51-4,woofer,8,220,11.2,0.0001624,2.433,23.23,0.2,2.5,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/4/8NW51
+B&C,8NW51-8,woofer,8,220,18.9,0.0001652,4.822,24.23,0.4,5.2,200,6,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8NW51
+B&C,8PE21-8,midrange,8,220,16.6,0.0001859,2.589,14.23,0.5,5.6,200,2.5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8PE21
+B&C,8PS21-8,woofer,8,220,12.6,0.0002067,2.512,19.23,0.5,5.4,200,5,,https://www.bcspeakers.com/en/products/lf-driver/8/8/8PS21
+B&C,10BG76-8,sub,10,320,22,0.0001226,4.919,83.09,1.36,5.2,500,9.6,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10BG76
+B&C,10CL51-8,woofer,10,320,11.6,0.0002469,3.176,23.89,0.8,5.2,150,5.5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10CL51
+B&C,10CL64-8,woofer,10,320,16.3,0.0001534,3.229,34.99,1.17,5.3,250,5.2,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10CL64
+B&C,10CLA64-16,woofer,10,320,18.8,0.0001454,4.0,26.99,0.7,10.6,250,4.5,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10CLA64
+B&C,10CLA64-8,woofer,10,320,14.5,0.0001285,2.462,29.39,0.9,5.5,250,5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10CLA64
+B&C,10CLA76-8,woofer,10,320,18.55,0.0001124,2.967,38.09,1.14,5.2,400,6.5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10CLA76
+B&C,10FW64-8,woofer,10,320,16.4,0.0001877,3.958,27.39,0.9,5,250,5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10FW64
+B&C,10MBX64-16,midbass,10,346,20.5,0.0001998,2.112,22.57,0.57,10.2,350,4,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10MBX64
+B&C,10MBX64-8,midbass,10,346,16.9,0.0001874,2.334,24.57,0.39,5.5,350,4,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10MBX64
+B&C,10MD26-8,midbass,10,320,19.6,0.0001415,3.084,24.39,1.2,5.8,350,1.5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10MD26
+B&C,10NDL64-16,woofer,10,320,19.1,0.0002353,3.239,25.39,1.3,10.5,250,4.5,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10NDL64
+B&C,10NDL64-8,woofer,10,320,16.2,0.0002183,3.829,30.39,0.9,5.7,250,6,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10NDL64
+B&C,10NDL88-16,woofer,10,320,26.4,0.0001085,3.531,45.39,2,10.7,700,7.8,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10NDL88
+B&C,10NDL88-8,woofer,10,320,20,0.0001272,2.809,46.89,1.18,5.1,700,8.1,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10NDL88
+B&C,10NSM76-16,midrange,10,320,27.2,1.39e-05,5.414,26.39,1.5,10.8,400,3.5,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10NSM76
+B&C,10NSM76-8,midrange,10,320,21.5,1.39e-05,5.666,26.39,0.9,5.2,400,3.5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10NSM76
+B&C,10NW64-8,woofer,10,320,18.3,0.0001548,4.052,40.39,0.65,5.2,300,6,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10NW64
+B&C,10NW76-16,woofer,10,320,24.7,0.0001289,2.087,35.89,0.58,10,400,7,,https://www.bcspeakers.com/en/products/lf-driver/10/16/10NW76
+B&C,10NW76-4,woofer,10,320,17,0.0001243,2.73,38.79,0.53,3,400,6.5,,https://www.bcspeakers.com/en/products/lf-driver/10/4/10NW76
+B&C,10NW76-8,woofer,10,320,20,0.0001201,2.537,40.39,0.38,5.5,400,6.8,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10NW76
+B&C,10PS26-8,woofer,10,320,14.1,0.0002632,3.861,26.39,1.2,6,350,5.5,,https://www.bcspeakers.com/en/products/lf-driver/10/8/10PS26
+B&C,12BG100-8,sub,12,522,23,0.0001096,5.477,138.24,1.6,5.1,1000,10.5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12BG100
+B&C,12BG76-8,sub,12,522,22.7,8.84e-05,6.935,134.24,1.1,5.4,500,9.5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12BG76
+B&C,12CL64-8,woofer,12,522,17.5,0.0001703,4.179,41.24,1.1,5.5,250,4.5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12CL64
+B&C,12CL76-8,woofer,12,522,22.4,0.0001571,4.398,56.24,1.5,5.2,350,6,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12CL76
+B&C,12CLA76-8,woofer,12,522,20.2,0.0001464,4.267,50.24,0.44,5.1,350,5.3,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12CLA76
+B&C,12FG100-4,sub,12,522,17.24,0.0001353,6.405,148.14,1.15,2.9,1000,10.3,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12FG100
+B&C,12FG100-8,sub,12,522,21.4,0.0001306,7.029,154.04,0.96,4.9,1000,10.3,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12FG100
+B&C,12FL76-8,woofer,12,522,18.7,0.0001583,3.467,50.24,1,5.4,400,6,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12FL76
+B&C,12FW64-8,woofer,12,522,15.5,0.0001782,4.641,33.24,1,5.2,250,5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12FW64
+B&C,12FW76-4,woofer,12,522,20.4,0.000125,5.614,55.74,1,3.1,500,7,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12FW76
+B&C,12FW76-8,woofer,12,522,26.4,0.0001158,6.697,61.24,1.4,5.1,500,7,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12FW76
+B&C,12FW88-8,woofer,12,531,19.5,0.000118,3.304,62.28,0.9,5.1,700,8,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12FW88
+B&C,12MH32-8,midbass,12,522,22.3,0.000167,2.498,40.24,0.83,5.2,400,5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12MH32
+B&C,12NBX100-4,woofer,12,531,23.04,0.000119,4.741,118.88,1.35,3.6,1000,10,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12NBX100
+B&C,12NBX100-8,woofer,12,531,25.6,0.0001288,7.728,102.88,1.9,5.1,1000,10,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12NBX100
+B&C,12NDL76-16,woofer,12,522,24.7,0.0001809,4.63,42.24,1.7,10.2,400,7,,https://www.bcspeakers.com/en/products/lf-driver/12/16/12NDL76
+B&C,12NDL76-4,woofer,12,522,16.5,0.0001876,5.22,40.24,0.72,3.1,400,6,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12NDL76
+B&C,12NDL76-8,woofer,12,522,20.1,0.0001912,3.964,39.24,1,5.3,400,7,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12NDL76
+B&C,12NDL88-16,woofer,12,522,25.3,0.0001447,2.65,56.24,2.1,11.1,700,8,,https://www.bcspeakers.com/en/products/lf-driver/12/16/12NDL88
+B&C,12NDL88-4,woofer,12,522,16.6,0.0001494,3.264,59.84,0.9,3.1,700,8,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12NDL88
+B&C,12NDL88-8,woofer,12,522,19.9,0.0001372,4.55,57.24,1.3,5,700,8,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12NDL88
+B&C,12NW100-4,sub,12,531,24.38,0.000109,5.72,105.88,1.79,3.8,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12NW100
+B&C,12NW100-8,sub,12,531,28,0.0001207,8.723,104.88,1.9,5.1,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12NW100
+B&C,12NW76-4,woofer,12,522,22,0.0001671,5.908,68.24,1.1,3.4,500,8,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12NW76
+B&C,12NW76-8,woofer,12,522,25.5,0.0002056,5.23,63.24,1.25,5.3,500,8,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12NW76
+B&C,12PE32-8,midbass,12,522,19.1,0.0002632,1.56,23.24,1.2,5.8,250,2.8,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12PE32
+B&C,12PLB100-8,woofer,12,531,18.4,0.0001316,2.629,62.88,1.6,5.1,600,9,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12PLB100
+B&C,12PLB76-8,woofer,12,522,18.6,0.0001987,3.023,37.24,1.2,5,350,5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12PLB76
+B&C,12PS100-8,sub,12,531,22.5,0.0001234,7.514,91.88,2,5.3,700,8,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12PS100
+B&C,12SW115-4,sub,12,522,23.8,8.674e-05,4.801,178.24,1.35,3.1,1700,13.8,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12SW115
+B&C,12SW115-8,sub,12,522,30.3,8.859e-05,5.083,184.24,1.9,5.1,1700,13.5,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12SW115
+B&C,12TBX100-4,sub,12,531,22.91,0.0001047,5.547,110.88,1.74,3.6,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/12/4/12TBX100
+B&C,12TBX100-8,sub,12,531,25.5,0.0001207,4.551,104.88,1.6,5.1,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/12/8/12TBX100
+B&C,320K/C-A-16,woofer,12,522,16.8,0.0001345,1.03,14.24,2.2,12,120,2,,https://www.bcspeakers.com/en/products/lf-driver/lf-driver/12/16/320K%2FC-A
+B&C,320K/C-A-8,woofer,12,522,12.2,0.0001395,1.046,13.24,1.1,5.4,120,2,,https://www.bcspeakers.com/en/products/lf-driver/lf-driver/12/8/320K%2FC-A
+B&C,14DS88-8,woofer,14,707,36.9,7.696e-05,5.875,148.3,2.05,5.6,700,11,,https://www.bcspeakers.com/en/products/lf-driver/13-5/8/14DS88
+B&C,14NA100-8,woofer,14,707,23.5,0.000142,4.656,74.8,0.74,5.1,800,8.8,,https://www.bcspeakers.com/en/products/lf-driver/13-5/8/14NA100
+B&C,14NDL76-8,woofer,14,707.0,19.0,0.0001773,2.67,63.3,1.1,5.0,500,8.0,,https://www.bcspeakers.com/en/products/lf-driver/13-5/8/14NDL76
+B&C,14NDL88-16,woofer,14,707,25,0.0001646,2.073,57.8,2.05,11,700,7.5,,https://www.bcspeakers.com/en/products/lf-driver/13-5/16/14NDL88
+B&C,14NDL88-4,woofer,14,707,16.9,0.0001779,2.728,67.3,0.85,3.1,700,8,,https://www.bcspeakers.com/en/products/lf-driver/13-5/4/14NDL88
+B&C,14NDL88-8,woofer,14,707,19.9,0.0001455,3.117,64.3,1.2,5,700,8,,https://www.bcspeakers.com/en/products/lf-driver/13-5/8/14NDL88
+B&C,15BG100-8,sub,15,855,23,8.144e-05,10.857,211.15,1.6,5.1,1000,10.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15BG100
+B&C,15BG76-8,sub,15,855,21.7,6.744e-05,8.651,165.15,1.29,5.4,500,9.6,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15BG76
+B&C,15CL76-4,woofer,15,855,19.1,0.0001348,5.98,77.65,1,3.5,400,7,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15CL76
+B&C,15CL76-8,woofer,15,855,21,0.000133,3.608,79.15,1.3,5.1,400,7,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15CL76
+B&C,15CLA76-8,woofer,15,855,19.8,0.0001702,3.387,64.15,0.5,5.2,350,5.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15CLA76
+B&C,15DS100-4,sub,15,855,24.3,7.148e-05,6.997,204.15,2.8,2.4,1500,13,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15DS100
+B&C,15DS100-8,sub,15,855,30.68,7.57e-05,6.956,191.15,4.6,4.5,1500,14.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15DS100
+B&C,15DS115-4,sub,15,855,33.6,8.026e-05,12.409,244.15,3.2,3.2,1600,16.5,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15DS115
+B&C,15DS115-8,sub,15,855,38.7,9.158e-05,10.128,225.15,4.5,4.9,1600,16.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15DS115
+B&C,15FW76-8,woofer,15,855,26.2,0.0001353,5.766,88.15,1.4,5.1,500,7,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15FW76
+B&C,15FW88-8,woofer,15,855,19.27,9.878e-05,3.536,77.95,0.81,5.2,700,8,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15FW88
+B&C,15NA100-8,woofer,15,855,26.3,8.432e-05,6.584,107.15,1.2,5.1,800,10,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NA100
+B&C,15NBX100-4,woofer,15,855,22.69,0.0001051,8.578,147.15,1.58,3.6,1000,10,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15NBX100
+B&C,15NBX100-8,woofer,15,855,25,0.0001294,8.132,122.15,2,5.1,1000,10,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NBX100
+B&C,15NDL76-8,woofer,15,855,22.5,0.0001927,4.96,67.15,1.5,5.3,500,7,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NDL76
+B&C,15NDL88-4,woofer,15,855,16.5,0.0001477,3.504,73.15,0.9,3,700,8,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15NDL88
+B&C,15NDL88-8,woofer,15,855,20.1,0.0001226,4.728,73.15,1.25,5,700,8,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NDL88
+B&C,15NW100-4,sub,15,855,24.54,0.0001217,7.108,151.15,1.74,3.7,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15NW100
+B&C,15NW100-8,sub,15,855,28,0.0001345,8.342,144.15,1.9,5.1,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NW100
+B&C,15NW76-4,woofer,15,855,20.64,0.0001399,4.549,90.15,0.88,3.1,600,8,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15NW76
+B&C,15NW76-8,woofer,15,855,25.5,0.0001381,6.383,75.15,1.25,5.3,600,8,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15NW76
+B&C,15PLB76-8,woofer,15,855,22.1,0.0001632,3.936,59.15,1.3,5,400,5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15PLB76
+B&C,15PS100-8,sub,15,855,21.2,0.0001041,6.535,131.15,2,5.2,700,8,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15PS100
+B&C,15PZB100-8,sub,15,855,25.8,0.0001081,5.806,125.15,2,5.2,700,8,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15PZB100
+B&C,15SW100-4,sub,15,855,22.09,9.587e-05,8.418,164.15,1.48,3.2,1500,12.5,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15SW100
+B&C,15SW100-8,sub,15,855,25.6,0.0001051,8.524,147.15,2.2,5.4,1500,12.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15SW100
+B&C,15SW115-4,sub,15,855,25.5,0.0001034,7.808,183.15,1.27,3.2,1700,13.5,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15SW115
+B&C,15SW115-8,sub,15,855,30,0.0001034,9.996,171.15,1.8,5.2,1700,13.5,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15SW115
+B&C,15TBW100-4,sub,15,855,22.56,8.454e-05,8.698,168.15,1.64,3.2,1500,12,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15TBW100
+B&C,15TBW100-8,sub,15,855,26.4,9.201e-05,10.08,152.15,2.2,5.3,1500,12,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15TBW100
+B&C,15TBX100-4,sub,15,855,22.13,0.0001267,6.45,144.15,1.49,3.7,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/15/4/15TBX100
+B&C,15TBX100-8,sub,15,855,25.5,0.0001269,6.893,134.15,1.6,5.1,1000,9,,https://www.bcspeakers.com/en/products/lf-driver/15/8/15TBX100
+B&C,18DS100-4,sub,18,1210,24.3,8.246e-05,6.032,251.42,2.82,2.5,1500,14,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18DS100
+B&C,18DS100-8,sub,18,1210,30,7.882e-05,6.251,229.42,4.4,4.5,1500,14.5,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18DS100
+B&C,18DS115-4,sub,18,1210,34,8.088e-05,13.81,299.42,2.8,3.3,1700,16.5,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18DS115
+B&C,18DS115-8,sub,18,1210,39,8.529e-05,14.466,281.42,3.85,5,1700,16.5,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18DS115
+B&C,18IPAL-2,sub,18,1210.0,24.5,7.496e-05,15.798,281.42,0.65,1.3,1700,20.0,,https://www.bcspeakers.com/en/products/lf-driver/18/2/18IPAL
+B&C,18NBX100-4,woofer,18,1210,22,9.19e-05,7.069,176.42,1.74,3.6,1200,10,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18NBX100
+B&C,18NBX100-8,woofer,18,1210,24.8,9.529e-05,8.522,168.42,1.85,5.2,1200,10,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18NBX100
+B&C,18NW100-4,sub,18,1210,24.7,0.0001153,7.418,195.42,1.7,3.7,1199,9,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18NW100
+B&C,18NW100-8,sub,18,1210,28,0.0001249,9.785,162.42,1.7,5.1,1200,9,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18NW100
+B&C,18PS100-4,sub,18,1210,20,0.0001178,4.951,190.42,1.35,3.8,700,7,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18PS100
+B&C,18PS100-8,sub,18,1210,22.5,0.0001393,8.277,153.42,2.1,5.3,700,8,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18PS100
+B&C,18PZB100-4,sub,18,1134,25,9.233e-05,7.437,145.93,1.25,4,700,8,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18PZB100
+B&C,18PZB100-8,sub,18,1134,26,0.0001656,3.641,125.93,2.1,5.3,700,8,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18PZB100
+B&C,18PZW100-8,sub,18,1210,25.5,8.853e-05,6.15,160.42,1.58,5.1,1000,8,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18PZW100
+B&C,18RS115-4,sub,18,1210,35.3,7.137e-05,8.544,373.42,3.3,3,2000,23.3,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18RS115
+B&C,18RS115-8,sub,18,1210,40,5.949e-05,9.008,342.42,5.1,4.5,2000,23.5,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18RS115
+B&C,18SW100-4,sub,18,1210,22,8.01e-05,9.339,195.42,1.52,3.2,1500,12.5,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18SW100
+B&C,18SW100-8,sub,18,1210,26.1,8.837e-05,8.722,185.42,2.2,5.3,1500,12.5,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18SW100
+B&C,18SW115-4,sub,18,1210.0,26.0,7.208e-05,10.646,255.42,1.36,3.3,1700,14.0,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18SW115
+B&C,18SW115-8,sub,18,1210.0,30.3,8.995e-05,9.874,226.42,1.9,5.3,1700,14.0,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18SW115
+B&C,18TBW100-4,sub,18,1210,22.8,8.679e-05,8.92,219.42,1.64,3.2,1500,12,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18TBW100
+B&C,18TBW100-8,sub,18,1210,26.4,8.44e-05,6.735,196.42,2.45,5.3,1500,12,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18TBW100
+B&C,18TBX100-4,sub,18,1210,22,0.0001224,6.193,181.42,1.73,3.7,1200,9,,https://www.bcspeakers.com/en/products/lf-driver/18/4/18TBX100
+B&C,18TBX100-8,sub,18,1210,25.5,0.0001048,6.201,160.42,1.6,5.1,1200,9,,https://www.bcspeakers.com/en/products/lf-driver/18/8/18TBX100
+B&C,19RS115-4,sub,19,1450,34.9,6.515e-05,11.469,368.27,3.3,3.1,2000,23.3,,https://www.bcspeakers.com/en/products/lf-driver/19/4/19RS115
+B&C,19RS115-8,sub,19,1450,42,6.738e-05,13.137,383.27,4.1,4.6,2000,23.5,,https://www.bcspeakers.com/en/products/lf-driver/19/8/19RS115
+B&C,21DS115-4,sub,21,1620,28.6,6.048e-05,8.391,333.75,2.3,2.1,1700,15,,https://www.bcspeakers.com/en/products/lf-driver/21/4/21DS115
+B&C,21DS115-8,sub,21,1620.0,39.3,5.424e-05,8.461,328.75,4.9,5.1,1700,16.5,,https://www.bcspeakers.com/en/compare?code=000000000000000100000133&code=000000000000000100000176&code=000000000000000100000036
+B&C,21IPAL-1,sub,21,1680,19.1,3.799e-05,23.105,407.53,0.5,0.7,2500,22,,https://www.bcspeakers.com/en/products/lf-driver/21/1/21IPAL
+B&C,21SW115-4,sub,21,1680,24.8,6.943e-05,9.021,255.53,1.7,3.6,1700,14,,https://www.bcspeakers.com/en/products/lf-driver/21/4/21SW115
+B&C,21SW115-8,sub,21,1680,30.1,8.229e-05,5.914,262.53,2.1,5.4,1700,14,,https://www.bcspeakers.com/en/products/lf-driver/21/8/21SW115
+B&C,21SW152-4,sub,21,1680,32.5,5.378e-05,13.213,380.53,1.5,3.3,2000,15,,https://www.bcspeakers.com/en/products/lf-driver/21/4/21SW152
+B&C,21SW152-8,sub,21,1680.0,39.0,5.497e-05,14.137,370.53,2.2,6.0,2000,15.0,,https://www.bcspeakers.com/en/products/lf-driver/21/8/21SW152
+B&C,4CXN36-16,coax,4,56,6.43,0.0003609,0.331,5.32,1.26,10.9,100,0,,https://www.bcspeakers.com/en/products/coaxial/4/16/4CXN36
+B&C,4CXN36-8,coax,4,56,5.13,0.0003306,0.335,5.52,0.3,5.6,100,0,,https://www.bcspeakers.com/en/products/coaxial/4/8/4CXN36
+B&C,4MCX36-8,coax,4,56,5.27,0.0001816,1.498,5.72,0.87,5.6,100,0,,https://www.bcspeakers.com/en/products/coaxial/4/8/4MCX36
+B&C,5CXN36-8,coax,5,95,5.42,0.0003382,0.367,7.23,0.89,5.8,100,0,,https://www.bcspeakers.com/en/products/coaxial/5/8/5CXN36
+B&C,5CXN44-8,coax,5,95,8.1,0.0003446,0.687,13.93,0.37,4.7,150,0,,https://www.bcspeakers.com/en/products/coaxial/5/8/5CXN44
+B&C,5FCX44-8,coax,5,95,10.5,0.0005673,0.59,10.93,0.8,5.6,100,0,,https://www.bcspeakers.com/en/products/coaxial/5/8/5FCX44
+B&C,6CXN36-8,coax,6.5,132,5.34,0.0003066,1.154,8.45,0.94,5.8,100,0,,https://www.bcspeakers.com/en/products/coaxial/6-5/8/6CXN36
+B&C,6FHX51-8,coax,6.5,132,11.3,0.0002191,1.096,14.25,1,5.5,150,0,,https://www.bcspeakers.com/en/products/coaxial/6-5/8/6FHX51
+B&C,6HCX51-8,coax,6.5,132,10.9,0.0001999,1.193,14.25,0.8,5.2,150,0,,https://www.bcspeakers.com/en/products/coaxial/6-5/8/6HCX51
+B&C,8CX21-8,coax,8,220,11.5,0.0002203,2.381,17.23,1.2,5.2,200,0,,https://www.bcspeakers.com/en/products/coaxial/8/8/8CX21
+B&C,8CXN51-8,coax,8,220,12.6,0.000249,2.0,18.23,0.9,4.9,250,0,,https://www.bcspeakers.com/en/products/coaxial/8/8/8CXN51
+B&C,8CXN64-8,coax,8,220,15.5,0.000157,1.679,28.23,1.1,5.8,300,5.5,,https://www.bcspeakers.com/en/products/coaxial/8/8/8CXN64
+B&C,8FCX51-8,coax,8,220,11.5,0.0002418,1.514,18.23,0.9,4.9,250,0,,https://www.bcspeakers.com/en/products/coaxial/8/8/8FCX51
+B&C,10CLX64-8,coax,10,320,11.4,0.0001436,1.616,29.39,0.91,5.6,250,0,,https://www.bcspeakers.com/en/products/coaxial/10/8/10CLX64
+B&C,10CXN64-8,coax,10,320,15.8,0.0001635,2.556,26.89,1.1,5.6,250,0,,https://www.bcspeakers.com/en/products/coaxial/10/8/10CXN64
+B&C,10CXN76-8,coax,10,320,18.9,0.0001298,2.578,51.39,0.7,5.2,300,6,,https://www.bcspeakers.com/en/products/coaxial/10/8/10CXN76
+B&C,10FCX64-8,coax,10,320,13.4,0.0001725,1.854,30.39,1.2,5.5,250,0,,https://www.bcspeakers.com/en/products/coaxial/10/8/10FCX64
+B&C,12CLX64-8,coax,12,522,11.86,0.0001918,1.522,31.54,0.54,5.6,250,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12CLX64
+B&C,12CXN76-8,coax,12,522,17.6,0.0003055,1.55,33.24,0.8,5,350,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12CXN76
+B&C,12CXN88-8,coax,12,522,20.9,0.0001689,2.271,46.24,1.05,5,500,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12CXN88
+B&C,12FCX76-8,coax,12,522,15.6,0.0002123,1.45,40.24,1.3,5.3,350,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12FCX76
+B&C,12FHX76-8,coax,12,522,14.4,0.0002339,2.625,33.24,1.6,5.2,350,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12FHX76
+B&C,12HCX76-8,coax,12,522,17.6,0.0003055,1.55,33.24,0.8,5,350,0,,https://www.bcspeakers.com/en/products/coaxial/12/8/12HCX76
+B&C,14CXN76-8,coax,14,707,18.4,0.0001867,2.229,45.3,1,5.2,400,0,,https://www.bcspeakers.com/en/products/coaxial/13-5/8/14CXN76
+B&C,14CXN88-4,coax,14,707,16.6,0.0001667,1.447,56.8,0.72,3.2,500,0,,https://www.bcspeakers.com/en/products/coaxial/13-5/4/14CXN88
+B&C,14CXN88-8,coax,14,707,20.7,0.0001442,1.845,61.3,0.95,4.7,500,0,,https://www.bcspeakers.com/en/products/coaxial/13-5/8/14CXN88
+B&C,15CLX64-8,coax,15,855,11.5,0.0002256,2.028,53.15,1.05,5.5,250,5.3,,https://www.bcspeakers.com/en/products/coaxial/15/8/15CLX64
+B&C,15CXN76-8,coax,15,855,17.8,0.0002139,3.376,53.15,0.9,5.1,400,0,,https://www.bcspeakers.com/en/products/coaxial/15/8/15CXN76
+B&C,15CXN88-8,coax,15,855,20.15,0.000122,2.203,65.15,0.95,4.6,500,0,,https://www.bcspeakers.com/en/products/coaxial/15/8/15CXN88
+B&C,15FCX76-8,coax,15,855,15.6,0.000182,2.634,58.15,1.2,5.2,400,0,,https://www.bcspeakers.com/en/products/coaxial/15/8/15FCX76
+B&C,15FHX76-8,coax,15,855,15.5,0.0001799,4.253,59.15,1.5,5.2,400,0,,https://www.bcspeakers.com/en/products/coaxial/15/8/15FHX76
+B&C,15HCX76-8,coax,15,855,17.8,0.0002139,3.376,53.15,0.9,5.1,400,0,,https://www.bcspeakers.com/en/products/coaxial/15/8/15HCX76
+Faital Pro,21XL3000 (8 ohm),sub,21.0,1744.0,43.0,6.701e-05,9.0,337.7,1.25,5.9,3000.0,17.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201080005
+Faital Pro,21XL3000 (4 ohm),sub,21.0,1744.0,35.5,5.263e-05,5.6,387.7,0.7,3.0,3000.0,17.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201080006
+Faital Pro,18XL2000,sub,18.0,1213.0,30.8,0.000113,5.0,238.3,1.45,5.3,2000.0,16.32,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070155
+Faital Pro,18XL1600,sub,18.0,1212.0,26.7,0.0001031,5.2,192.3,1.45,5.4,1600.0,12.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070140
+Faital Pro,18XL1600 (4 ohm),sub,18.0,1212.0,21.7,9.804e-05,5.91,204.6,1.17,3.0,1600.0,12.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070141
+Faital Pro,18XL1800,sub,18.0,1187.0,25.4,0.0001095,5.1,228.8,2.04,5.35,1600.0,20.17,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070150
+Faital Pro,18XL1700,sub,18.0,1187.0,30.5,0.0001154,4.9,233.8,2.36,5.4,1600.0,16.17,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070143
+Faital Pro,18HW1070,sub,18.0,1212.0,27.0,9.551e-05,5.2,211.3,1.68,5.4,1600.0,13.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070138
+Faital Pro,18HW1070 (4 ohm),sub,18.0,1212.0,21.6,9.335e-05,5.0,217.3,1.26,3.0,1600.0,13.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070139
+Faital Pro,18HP1060,sub,18.0,1212.0,24.8,9.763e-05,4.2,164.1,1.26,5.0,1200.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070125
+Faital Pro,18HP1060 (4 ohm),sub,18.0,1212.0,20.7,8.99e-05,3.8,182.3,1.09,2.9,1200.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070126
+Faital Pro,18HP1030,sub,18.0,1212.0,24.3,9.045e-05,4.3,180.9,1.48,5.0,1200.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070135
+Faital Pro,18HP1030 (4 ohm),sub,18.0,1212.0,21.7,8.395e-05,4.4,198.6,1.08,2.9,1200.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070136
+Faital Pro,18HP1022,sub,18.0,1212.0,28.0,9.989e-05,3.67,159.3,1.75,5.4,1000.0,9.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070115
+Faital Pro,18HP1010,sub,18.0,1207.0,22.0,0.000118,4.94,127.8,1.8,5.3,1000.0,9.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070123
+Faital Pro,18HP1010 (4 ohm),sub,18.0,1207.0,18.4,0.0001111,5.2,138.8,1.26,2.7,1000.0,9.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201070124
+Faital Pro,18FH500,sub,18.0,1207.0,19.0,0.0002054,2.1,89.6,1.35,5.1,600.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151070100
+Faital Pro,18FH500 (4 ohm),sub,18.0,1207.0,16.7,0.0002245,3.5,96.5,1.07,3.3,600.0,9.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151070103
+Faital Pro,18FH500 (16 ohm),sub,18.0,1207.0,23.3,0.0002213,2.4,79.8,2.1,12.7,600.0,9.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151070105
+Faital Pro,18FH510,sub,18.0,1207.0,21.0,0.0002025,1.9,91.6,1.06,5.1,600.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151070150
+Faital Pro,18FH510 (4 ohm),sub,18.0,1207.0,18.3,0.0001924,2.0,98.9,1.06,3.3,600.0,9.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151070151
+Faital Pro,15XL2400 (8 ohm),woofer,15.0,848.0,36.0,0.0001135,2.8,190.1,1.4,6.3,2200.0,17.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060160
+Faital Pro,15XL1200 (8 ohm),woofer,15.0,841.0,23.6,8.795e-05,4.2,152.4,1.34,5.0,1400.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060155
+Faital Pro,15XL1400 (8 ohm),woofer,15.0,841.0,26.7,9.233e-05,4.4,162.4,1.6,5.4,1400.0,12.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060150
+Faital Pro,15XL1400,woofer,15.0,841.0,21.7,8.54e-05,4.8,177.8,1.25,3.0,1400.0,12.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060151
+Faital Pro,15HP1060 (8 ohm),woofer,15.0,842.0,24.8,0.0001013,3.4,128.7,1.32,5.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060120
+Faital Pro,15HP1060 (4 ohm),woofer,15.0,842.0,20.7,7.708e-05,5.0,177.8,1.25,2.9,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060121
+Faital Pro,15HP1030 (8 ohm),woofer,15.0,842.0,24.3,9.595e-05,3.5,137.4,1.4,5.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060135
+Faital Pro,15HP1030 (4 ohm),woofer,15.0,842.0,20.5,8.919e-05,3.3,149.9,1.0,3.97,1000.0,12.45,published Qts 0.3 vs computed 0.409,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060136
+Faital Pro,15HP1020 (8 ohm),woofer,15.0,822.0,24.2,0.0001342,2.9,91.4,1.2,5.5,700.0,9.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060110
+Faital Pro,15HP1010 (8 ohm),woofer,15.0,822.0,22.0,0.000114,3.5,112.3,1.8,5.3,700.0,9.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201060115
+Faital Pro,15FX560 (8 ohm),woofer,15.0,864.0,21.5,0.0001525,4.0,86.3,0.64,5.2,700.0,9.42,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060200
+Faital Pro,15FX600 (8 ohm),woofer,15.0,864.0,23.2,0.0001231,4.9,113.8,1.26,5.0,700.0,11.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060205
+Faital Pro,15FH520 (8 ohm),woofer,15.0,847.0,18.4,0.0001861,2.4,77.1,0.89,5.6,600.0,8.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060150
+Faital Pro,15FH520 (4 ohm),woofer,15.0,847.0,14.3,0.0001529,3.0,86.8,0.68,2.7,600.0,9.15,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060152
+Faital Pro,15FH520 (16 ohm),woofer,15.0,847.0,23.5,0.000134,2.1,79.3,1.7,12.7,600.0,9.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060151
+Faital Pro,15FH500 (8 ohm),woofer,15.0,847.0,19.2,0.0001988,2.2,76.1,1.3,5.1,500.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060100
+Faital Pro,15FH500 (4 ohm),woofer,15.0,847.0,16.2,0.0002092,2.7,83.3,1.02,3.3,500.0,9.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060102
+Faital Pro,15FH500 (16 ohm),woofer,15.0,847.0,23.8,0.0002167,1.6,67.5,2.0,12.7,500.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060101
+Faital Pro,15FH530 (8 ohm),woofer,15.0,864.0,20.7,0.0001348,3.4,94.8,1.1,5.1,500.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060110
+Faital Pro,15FH510 (8 ohm),woofer,15.0,847.0,21.0,0.0001915,2.2,80.1,1.4,5.1,500.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151060125
+Faital Pro,15PR400 (8 ohm),woofer,15.0,857.0,16.7,0.0002427,3.1,56.8,0.72,5.1,400.0,5.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101060100
+Faital Pro,15PR400,woofer,15.0,857.0,13.6,0.0002427,3.1,56.8,0.6,3.3,400.0,5.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101060101
+Faital Pro,15PR450 (8 ohm),woofer,15.0,857.0,16.6,0.0002298,2.9,61.6,0.65,5.1,400.0,6.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101060095
+Faital Pro,15PR300 (8 ohm),woofer,15.0,870.0,15.6,0.0002084,1.6,70.2,0.89,5.4,300.0,5.23,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101060097
+Faital Pro,12XL1200 (8 ohm),woofer,12.0,518.0,23.6,6.666e-05,3.2,138.7,1.3,5.0,1400.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050135
+Faital Pro,12RS1066 (8 ohm),woofer,12.0,496.0,24.8,9.175e-05,3.0,144.0,1.35,5.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050125
+Faital Pro,12RS1066 (16 ohm),woofer,12.0,496.0,33.5,8.257e-05,3.8,139.0,2.5,12.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050127
+Faital Pro,12HP1060 (8 ohm),woofer,12.0,518.0,24.8,9.857e-05,3.0,113.6,1.38,5.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050120
+Faital Pro,12HP1060 (4 ohm),woofer,12.0,518.0,20.7,9.019e-05,3.2,125.4,1.13,2.9,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050121
+Faital Pro,12HP1030 (8 ohm),woofer,12.0,518.0,24.3,9.585e-05,2.7,117.2,1.35,5.0,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050130
+Faital Pro,12HP1030 (4 ohm),woofer,12.0,518.0,20.5,8.871e-05,4.3,127.7,0.96,2.9,1000.0,12.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050131
+Faital Pro,12HP1020 (8 ohm),woofer,12.0,533.0,24.3,9.737e-05,3.2,72.1,1.1,5.5,700.0,9.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050110
+Faital Pro,12HP1010 (8 ohm),woofer,12.0,531.0,19.8,0.0001434,2.6,73.4,1.33,5.5,700.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201050115
+Faital Pro,12FX600 (8 ohm),woofer,12.0,538.0,25.3,0.0001099,4.4,85.9,1.34,5.3,700.0,9.9,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050125
+Faital Pro,12FH520 (8 ohm),woofer,12.0,540.0,17.3,0.0001809,1.6,41.8,0.74,5.1,600.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050110
+Faital Pro,12FH520 (4 ohm),woofer,12.0,540.0,15.3,0.0001608,3.1,48.8,0.71,3.3,600.0,7.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050112
+Faital Pro,12FH520 (16 ohm),woofer,12.0,540.0,23.5,0.0001384,1.2,46.3,1.6,12.8,600.0,7.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050111
+Faital Pro,12FH500 (8 ohm),woofer,12.0,529.0,17.5,0.0002234,2.3,42.2,0.83,5.1,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050100
+Faital Pro,12FH500 (4 ohm),woofer,12.0,529.0,15.5,0.0002054,1.9,47.1,0.63,3.3,500.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050101
+Faital Pro,12FH500 (16 ohm),woofer,12.0,529.0,23.8,0.0001981,1.5,41.7,1.2,12.8,500.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050102
+Faital Pro,12RS550 (8 ohm),woofer,12.0,528.0,20.5,0.0001167,4.7,109.3,1.5,5.1,500.0,9.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050120
+Faital Pro,12FH510 (8 ohm),woofer,12.0,533.0,18.9,0.0002051,1.6,47.1,0.9,5.1,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050105
+Faital Pro,12FH510 (4 ohm),woofer,12.0,533.0,16.3,0.0001895,2.4,52.1,0.8,3.3,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050106
+Faital Pro,12FH530 (8 ohm),woofer,12.0,533.0,18.9,0.0001867,3.0,53.1,0.8,5.1,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050108
+Faital Pro,12FH530 (16 ohm),woofer,12.0,533.0,24.1,0.0001907,2.0,51.7,1.5,12.8,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050109
+Faital Pro,12RS430 (8 ohm),woofer,12.0,552.0,18.0,0.0003083,1.7,76.6,0.78,6.8,400.0,13.57,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151050115
+Faital Pro,12PR320 (8 ohm),midbass,12.0,539.0,13.5,0.0002794,1.7,37.3,0.67,5.3,300.0,7.37,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050135
+Faital Pro,12PR320 (16 ohm),midbass,12.0,539.0,17.3,0.0002383,1.9,38.3,0.96,11.3,300.0,7.27,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050136
+Faital Pro,12PR300 (8 ohm),midbass,12.0,533.0,14.1,0.0002335,1.4,29.5,0.42,5.4,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050110
+Faital Pro,12PR300 (4 ohm),midbass,12.0,533.0,11.8,0.0001863,0.9,40.5,0.46,3.3,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050112
+Faital Pro,12PR300 (16 ohm),midbass,12.0,533.0,17.5,0.0002262,2.9,30.9,0.98,12.1,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050111
+Faital Pro,12PR310 (8 ohm),midbass,12.0,533.0,14.4,0.0001852,1.4,33.0,0.61,5.4,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050130
+Faital Pro,12PR310 (4 ohm),midbass,12.0,533.0,11.2,0.0001948,1.2,38.1,0.44,3.3,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050131
+Faital Pro,12PR310 (16 ohm),midbass,12.0,533.0,17.3,0.0001642,1.4,37.1,0.98,12.1,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101050132
+Faital Pro,12FE330 (8 ohm),midbass,12.0,579.0,13.0,0.0003135,2.2,58.5,1.1,5.3,250.0,8.32,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401050015
+Faital Pro,12FE300 (8 ohm),midbass,12.0,543.0,12.5,0.0002033,1.1,42.1,0.8,5.1,250.0,5.07,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401050010
+Faital Pro,12FE300 (4 ohm),midbass,12.0,543.0,10.9,0.0001977,1.3,43.7,0.55,3.1,250.0,5.47,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401050011
+Faital Pro,12FE400 (8 ohm),midbass,12.0,549.0,11.5,0.0001748,2.5,33.4,0.75,5.0,200.0,5.42,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401050005
+Faital Pro,12FE400,midbass,12.0,549.0,10.2,0.0001642,2.7,36.5,0.44,3.3,200.0,5.42,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401050007
+Faital Pro,10HP1020 (8 ohm),woofer,10.0,345.0,24.5,9.705e-05,4.2,65.3,0.85,5.5,700.0,9.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=201040110
+Faital Pro,10FH520 (8 ohm),woofer,10.0,347.0,18.0,0.0001399,1.7,43.0,0.9,5.1,600.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040110
+Faital Pro,10FH520 (4 ohm),woofer,10.0,347.0,15.3,0.0001348,1.5,44.9,0.61,3.3,600.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040112
+Faital Pro,10FH520 (16 ohm),midbass,10.0,347.0,23.5,0.0001347,1.2,37.2,1.7,12.8,600.0,7.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040111
+Faital Pro,10FH500 (8 ohm),woofer,10.0,351.0,17.9,0.0001497,5.4,39.6,0.85,5.1,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040100
+Faital Pro,10FH500 (4 ohm),woofer,10.0,351.0,15.5,0.0001404,3.0,42.7,0.64,3.3,500.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040101
+Faital Pro,10FH500 (16 ohm),midbass,10.0,328.0,23.8,0.0001262,3.4,44.1,1.37,12.8,500.0,7.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040102
+Faital Pro,10FH530 (8 ohm),woofer,10.0,347.0,19.5,0.0001399,1.5,43.0,0.8,5.1,500.0,7.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040105
+Faital Pro,10FH530 (16 ohm),midbass,10.0,347.0,25.1,0.0001201,1.81,39.7,1.42,12.8,500.0,7.45,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040107
+Faital Pro,10RS430 (8 ohm),woofer,10.0,344.0,18.0,0.0003585,1.4,61.8,0.78,6.8,400.0,13.57,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040095
+Faital Pro,10PR300 (8 ohm),midbass,10.0,348.0,14.1,0.0002495,1.8,20.0,0.6,5.4,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040110
+Faital Pro,10PR300 (4 ohm),midbass,10.0,348.0,11.8,0.0002945,1.9,27.1,0.45,3.3,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040111
+Faital Pro,10PR300 (16 ohm),midbass,10.0,348.0,18.0,0.0001811,2.3,25.8,0.85,12.1,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040112
+Faital Pro,10PR320 (8 ohm),midbass,10.0,347.0,13.5,0.0003141,2.3,27.7,0.57,5.3,300.0,7.37,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040140
+Faital Pro,10PR320 (16 ohm),midbass,10.0,347.0,16.7,0.0003016,3.2,26.3,0.98,11.3,300.0,7.27,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040142
+Faital Pro,10PR310 (8 ohm),midbass,10.0,348.0,14.4,0.0001907,2.4,29.6,0.64,5.4,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040130
+Faital Pro,10PR310 (4 ohm),midbass,10.0,348.0,11.5,0.0002386,1.7,27.8,0.45,3.3,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040131
+Faital Pro,10PR310 (16 ohm),midbass,10.0,348.0,18.7,0.0001713,2.7,27.7,1.22,12.1,300.0,4.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040132
+Faital Pro,10RS350 (8 ohm),midbass,10.0,344.0,14.0,0.0002683,2.9,51.8,0.95,5.3,300.0,7.37,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040090
+Faital Pro,10RS350 (4 ohm),midbass,10.0,344.0,12.5,0.0002454,2.6,57.3,0.45,3.2,300.0,7.17,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=151040091
+Faital Pro,10PR330 (8 ohm),midbass,10.0,348.0,14.3,0.0001928,3.0,29.2,0.64,5.3,300.0,7.37,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040135
+Faital Pro,10PR330 (16 ohm),midbass,10.0,348.0,19.5,0.0001949,3.8,28.8,1.12,11.3,300.0,7.27,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101040136
+Faital Pro,10FE330 (8 ohm),midbass,10.0,382.0,12.6,0.0003553,1.9,49.8,1.1,5.3,250.0,8.32,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040111
+Faital Pro,10FE300 (8 ohm),midbass,10.0,358.0,11.3,0.0002822,0.9,28.2,0.6,5.8,250.0,5.52,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040106
+Faital Pro,10FE300 (4 ohm),midbass,10.0,358.0,9.7,0.0002738,1.1,29.3,0.45,3.3,250.0,5.47,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040107
+Faital Pro,10FE400 (8 ohm),midbass,10.0,362.0,11.5,0.0001928,2.7,28.7,0.68,5.0,200.0,5.42,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040103
+Faital Pro,10FE400,midbass,10.0,362.0,10.2,0.0001837,2.8,30.5,0.5,3.2,200.0,5.62,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040104
+Faital Pro,10FE200 (8 ohm),midbass,10.0,359.7,8.2,0.0003418,0.7,16.8,0.42,5.9,150.0,4.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040100
+Faital Pro,10FE200 (4 ohm),midbass,10.0,360.0,7.0,0.0003376,0.9,17.1,0.3,3.0,150.0,4.62,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401040101
+Faital Pro,8PR320,midbass,8.0,223.0,12.9,0.0001891,1.6,27.9,0.52,5.4,300.0,7.33,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030210
+Faital Pro,8RS340,midbass,8.0,227.8,13.0,0.000352,1.6,36.9,0.64,5.3,300.0,7.33,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030204
+Faital Pro,8RS350,midbass,8.0,226.0,13.9,0.0003316,1.7,39.5,0.6,5.3,300.0,7.37,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030207
+Faital Pro,8PR150,midbass,8.0,233.9,10.4,0.0002124,2.3,17.2,0.2,5.8,250.0,5.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030215
+Faital Pro,8FE300,midbass,8.0,223.0,11.3,0.0002257,0.8,19.1,0.55,5.8,250.0,5.52,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030106
+Faital Pro,8FE300 (4 ohm),midbass,8.0,223.0,9.7,0.0002011,1.0,21.9,0.36,3.3,250.0,5.47,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030107
+Faital Pro,8FE300 (16 ohm),midbass,8.0,223.0,13.6,0.0002068,0.9,21.2,0.82,11.8,250.0,5.52,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030109
+Faital Pro,8PR200,midbass,8.0,209.0,11.5,0.0002768,1.1,23.8,0.55,5.1,200.0,8.15,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030200
+Faital Pro,8PR200 (16 ohm),midbass,8.0,209.0,15.5,0.0002635,1.1,23.3,0.87,11.8,200.0,8.65,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030201
+Faital Pro,8PR210,midbass,8.0,216.0,13.5,0.000237,3.4,21.7,0.46,5.7,200.0,6.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030140
+Faital Pro,8PR210 (16 ohm),midbass,8.0,216.0,17.4,0.0002417,2.3,21.2,0.75,11.2,200.0,7.17,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030141
+Faital Pro,8PR155,midrange,8.0,217.0,13.4,0.0001431,1.5,20.9,0.41,5.3,200.0,3.57,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030145
+Faital Pro,8PR155 (16 ohm),midrange,8.0,217.0,18.1,0.0001608,1.4,18.2,0.41,13.2,200.0,3.57,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030147
+Faital Pro,8RS250,midbass,8.0,223.0,13.5,0.000264,1.9,26.8,0.35,5.7,200.0,6.92,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101030090
+Faital Pro,8FE400,midrange,8.0,233.0,10.5,0.0001236,2.4,16.5,0.44,5.0,200.0,4.77,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030110
+Faital Pro,8FE400,midrange,8.0,233.0,8.8,0.0001306,2.5,15.4,0.3,3.4,200.0,4.87,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030111
+Faital Pro,8FE200,midrange,8.0,209.0,8.2,0.0002639,0.6,11.6,0.44,5.9,130.0,4.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030100
+Faital Pro,8FE200 (4 ohm),midrange,8.0,209.0,7.0,0.0002587,0.9,11.9,0.25,3.0,130.0,4.62,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401030101
+Faital Pro,6FE300 (8 ohm),midrange,6.0,138.0,10.0,0.0001784,0.8,12.4,0.4,5.3,175.0,3.9,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020115
+Faital Pro,6FE300 (4 ohm),midrange,6.0,138.0,8.33,0.0001648,1.0,14.2,0.26,3.0,175.0,3.9,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020116
+Faital Pro,6PR150 (8 ohm),midrange,6.0,137.0,11.6,0.0001876,1.0,11.7,0.28,5.5,150.0,2.65,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020110
+Faital Pro,6PR130 (8 ohm),midrange,6.0,147.95,11.4,6.893e-05,4.3,10.0,0.17,5.2,200.0,4.6,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020155
+Faital Pro,6RS140 (8 ohm),midbass,6.0,133.0,11.0,0.0003747,1.1,14.3,0.28,5.3,200.0,5.6,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020140
+Faital Pro,6RS140 (16 ohm),midbass,6.0,133.0,14.2,0.0003997,1.0,13.3,0.34,12.6,200.0,5.5,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020141
+Faital Pro,6FE400 (8 ohm),midrange,6.0,141.0,10.5,0.0001809,2.4,12.1,0.42,5.0,200.0,4.77,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020120
+Faital Pro,6FE400,midrange,6.0,141.0,8.8,0.0001784,2.4,12.4,0.42,3.4,200.0,4.87,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020121
+Faital Pro,6FE400 (16 ohm),midrange,6.0,141.0,13.0,0.0001964,2.2,11.0,0.42,12.0,200.0,4.77,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020122
+Faital Pro,6PR110 (8 ohm),midrange,6.0,137.0,8.5,0.0002111,1.8,10.2,0.22,6.0,150.0,2.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020130
+Faital Pro,6FE200 (8 ohm),midrange,6.0,131.0,8.2,0.000153,1.4,9.8,0.4,5.9,130.0,4.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020110
+Faital Pro,6FE200 (4 ohm),midrange,6.0,131.0,7.0,0.0001813,1.2,8.0,0.2,3.0,130.0,4.62,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020111
+Faital Pro,6FE200 (16 ohm),midrange,6.0,131.0,11.4,0.0001777,0.7,8.2,0.65,12.0,130.0,4.17,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020112
+Faital Pro,6PR160 (8 ohm),midrange,6.0,130.0,11.0,0.0002502,1.1,10.8,0.28,5.9,120.0,5.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020145
+Faital Pro,6PR122 (8 ohm),midrange,6.0,137.3,10.5,0.0001789,2.4,9.9,0.15,6.0,120.0,2.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101020120
+Faital Pro,6FE125 (8 ohm),midbass,6.0,149.0,6.8,0.0004862,0.9,11.9,0.5,5.4,100.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020106
+Faital Pro,6FE100 (8 ohm),midbass,6.0,149.0,6.8,0.0004862,0.9,11.9,0.5,5.4,100.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401020100
+Faital Pro,5PR160 (8 ohm),midrange,5.0,85.2,9.6,0.0003679,1.1,7.6,0.3,6.1,120.0,5.1,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101010110
+Faital Pro,5RS150 (8 ohm),midbass,5.0,88.0,10.0,0.0008551,0.86,13.1,0.45,7.9,120.0,8.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101010107
+Faital Pro,5PR120 (8 ohm),midrange,5.0,102.2,10.0,0.000298,0.7,7.3,0.17,5.0,100.0,3.1,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=101010105
+Faital Pro,5FE105 (8 ohm),midbass,5.0,84.0,6.9,0.000571,0.52,9.6,0.53,5.4,80.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010106
+Faital Pro,5FE125 (8 ohm),midbass,5.0,84.0,6.9,0.000545,0.6,10.1,0.41,5.4,80.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010115
+Faital Pro,5FE100 (8 ohm),midbass,5.0,84.0,6.9,0.000571,0.52,9.6,0.53,5.4,80.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010100
+Faital Pro,5FE100 (4 ohm),midbass,5.0,84.0,6.0,0.0006118,0.5,8.9,0.45,3.1,80.0,5.2,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010101
+Faital Pro,5FE120 (8 ohm),midbass,5.0,84.0,6.9,0.000545,0.6,10.1,0.41,5.4,80.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010110
+Faital Pro,5FE120 (4 ohm),midbass,5.0,79.8,5.9,0.00055,0.55,10.5,0.33,3.1,80.0,5.2,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010111
+Faital Pro,5FE120 (16 ohm),midbass,5.0,84.3,9.0,0.0006661,0.4,8.1,0.76,11.8,80.0,5.25,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401010112
+Faital Pro,4FE42 (8 ohm),midrange,4.0,50.9,6.0,0.0005234,0.3,3.6,0.07,5.4,40.0,2.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005105
+Faital Pro,4FE42,midrange,4.0,50.9,5.4,0.0004868,0.5,3.9,0.05,3.5,40.0,2.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005106
+Faital Pro,4FE44 (8 ohm),midrange,4.0,51.5,7.2,0.0002887,0.7,3.5,0.16,4.7,40.0,1.67,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005110
+Faital Pro,4FE32 (8 ohm),midrange,4.0,51.9,4.8,0.0006031,0.5,3.8,0.18,6.5,30.0,2.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005100
+Faital Pro,4FE32,midrange,4.0,51.9,3.7,0.0006666,0.7,3.4,0.11,3.3,30.0,1.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005101
+Faital Pro,4FE32 (16 ohm),midrange,4.0,51.9,5.5,0.0006333,0.7,3.6,0.25,12.3,30.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005102
+Faital Pro,4FE35 (8 ohm),midrange,4.0,51.9,3.9,0.0006495,0.6,3.5,0.1,6.5,30.0,2.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005150
+Faital Pro,4FE35,midrange,4.0,51.9,3.0,0.0006495,0.65,3.5,0.04,3.3,30.0,1.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005151
+Faital Pro,4FE35 (16 ohm),midrange,4.0,51.9,4.3,0.0006031,0.7,3.8,0.1,12.3,30.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401005152
+Faital Pro,3FE26 (8 ohm),midrange,3.0,33.0,3.3,0.0005925,0.6,1.7,0.12,6.2,20.0,2.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000160
+Faital Pro,3FE26 (16 ohm),midrange,3.0,33.0,3.9,0.0005925,0.6,1.7,0.18,12.3,20.0,2.0,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000162
+Faital Pro,3FE22 (8 ohm),midrange,3.0,33.0,4.5,0.0008374,0.3,2.3,0.15,6.2,20.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000100
+Faital Pro,3FE22 (4 ohm),midrange,3.0,33.0,3.7,0.0008723,0.5,2.2,0.1,3.3,20.0,1.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000101
+Faital Pro,3FE22 (16 ohm),midrange,3.0,33.0,5.5,0.0009102,0.3,2.1,0.1,12.3,20.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000102
+Faital Pro,3FE25 (8 ohm),midrange,3.0,33.0,3.6,0.0008723,0.4,2.2,0.07,6.2,20.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000150
+Faital Pro,3FE25 (4 ohm),midrange,3.0,33.0,3.0,0.0008723,0.4,2.2,0.04,3.3,20.0,1.73,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000151
+Faital Pro,3FE25 (16 ohm),midrange,3.0,33.0,4.5,0.0008723,0.34,2.2,0.1,12.3,20.0,1.83,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=401000152
+Faital Pro,2FE22 (8 ohm),midrange,2.5,20.1,5.2,0.0008106,0.5,1.9,0.15,6.5,25.0,2.9,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=40900015
+Faital Pro,2FE24 (8 ohm),midrange,2.5,20.1,3.5,0.0004613,0.5,1.8,0.11,6.5,20.0,1.75,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=40900010
+Faital Pro,2FE24,midrange,2.5,20.1,3.2,0.0004382,0.6,1.9,0.1,3.9,20.0,1.9,,https://faitalpro.com/en/products/LF_Loudspeakers/product_details/index.php?id=40900011
+Faital Pro,15HX500 (8 ohm),coax,15.0,864.0,22.2,0.0001439,5.0,81.3,0.84,5.0,400.0,9.4,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351060010
+Faital Pro,12HX500 (8 ohm),coax,12.0,540.0,17.4,0.0001422,2.8,44.7,0.57,5.6,400.0,9.25,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351050020
+Faital Pro,12HX240 (8 ohm),coax,12.0,539.0,16.0,0.0001507,1.7,39.5,0.45,5.3,250.0,7.37,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351050015
+Faital Pro,12HX230 (8 ohm),coax,12.0,539.0,14.1,0.0001668,2.3,36.1,0.62,5.3,250.0,7.37,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351050010
+Faital Pro,12HX230 (16 ohm),coax,12.0,539.0,17.6,0.0001783,1.6,31.2,0.93,11.5,250.0,7.27,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351050012
+Faital Pro,10HX240 (8 ohm),coax,10.0,347.0,15.5,0.0001897,3.9,24.3,0.45,5.3,250.0,7.37,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351040015
+Faital Pro,10HX230 (8 ohm),coax,10.0,347.0,13.1,0.0001817,2.4,25.7,0.54,5.3,250.0,7.37,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351040010
+Faital Pro,8HX240,coax,8.0,223.0,13.8,0.0001866,1.5,24.0,0.49,5.0,250.0,6.17,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351030205
+Faital Pro,8HX230,coax,8.0,223.0,15.0,0.0002119,1.8,20.6,0.59,6.5,250.0,6.17,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351030200
+Faital Pro,8HX210,coax,8.0,217.0,11.86,0.0001532,3.5,20.4,0.5,5.3,200.0,6.53,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351030180
+Faital Pro,8HX200,coax,8.0,217.2,13.8,0.0001993,1.0,18.4,0.51,5.5,250.0,4.92,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351030150
+Faital Pro,8HX150,coax,8.0,217.2,11.6,0.0001967,1.1,18.7,0.51,5.5,250.0,4.92,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351030100
+Faital Pro,6HX150 (8 ohm),coax,6.0,139.2,12.0,0.0002336,0.9,12.1,0.64,5.5,150.0,4.35,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351020100
+Faital Pro,5HX220 (8 ohm),coax,5.0,90.6,7.7,0.0001904,0.6,6.3,0.2,5.8,150.0,4.57,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351010015
+Faital Pro,5HX140 (8 ohm),coax,5.0,85.0,8.0,0.0003377,1.0,6.6,0.29,5.9,120.0,5.1,,https://faitalpro.com/en/products/Coaxial_Loudspeakers/product_details/index.php?id=351010010
+Precision Devices,PD.1845-1N,sub,18,1158.12,26.424,9.41e-05,4.525,186.0,1.578,4.7,1500,16,,https://www.precision-devices.com/products/18-inch-drivers/pd-1845-1n/
+Precision Devices,PD.1845-2N,sub,18,1154,27,8.271e-05,4.072,204.76,3.1,5.2,1800,18,,https://www.precision-devices.com/products/18-inch-drivers/pd-1845-2n/
+Precision Devices,PD.184C002,sub,18,1152,21,0.0001414,4.964,66.87,1.11,5.2,900,9.7,,https://www.precision-devices.com/products/18-inch-drivers/pd-184c002/
+Precision Devices,PD.184NR1,sub,18,1164,29.5,8.121e-05,8.359,170.17,1.89,5.4,1000,8.5,,https://www.precision-devices.com/products/18-inch-drivers/pd-184nr1/
+Precision Devices,PD.1850/3,sub,18,1164.16,30.99,0.0001071,2.907,169.4,1.33,5.22,800,11.05,,https://www.precision-devices.com/products/18-inch-drivers/pd1850-3/
+Precision Devices,PD.1852/2,sub,18,1164.16,30.47,6.255e-05,5.477,185.37,0.9,5.18,1000,12,,https://www.precision-devices.com/products/18-inch-drivers/pd-1852-2/
+Precision Devices,PD.185C001,sub,18,1162,21,0.0001574,3.754,111.48,3.8,5.9,1200,10.5,,https://www.precision-devices.com/products/18-inch-drivers/pd-185c001/
+Precision Devices,PD.185C003,sub,18,1164,31.5,0.0001181,3.853,151.17,2.8,5.4,1500,11,,https://www.precision-devices.com/products/18-inch-drivers/pd-185c003/
+Precision Devices,PD.185NR1,sub,18,1164,29.5,0.0001014,7.479,170.17,2.49,5.4,1400,11.75,,https://www.precision-devices.com/products/18-inch-drivers/pd-185nr1/
+Precision Devices,PD.186/3,sub,18,1134.11,22.18,0.0001063,4.066,159.85,1.95,6.19,700,10.5,,https://www.precision-devices.com/products/18-inch-drivers/pd-186-3/
+Precision Devices,PD.181200,sub,18,1244,20,0.0001157,8.565,133.36,0.72,5.1,1200,11,,https://www.precision-devices.com/products/oem-exclusive-line/pd-181200/
+Precision Devices,PD.2155-1F,sub,21,1520,31.3,6.802e-05,8.484,235.6,1.48,5.1,1500,14,,https://www.precision-devices.com/products/21-inch-drivers/pd-2155-1f/
+Precision Devices,PD.2155-1N,sub,21,1520,30,7.269e-05,6.77,251.6,2.4,5.1,1500,14,,https://www.precision-devices.com/products/21-inch-drivers/pd-2155-1n/
+Precision Devices,PD.2160-1N,sub,21,1698,43,4.335e-05,6.639,396.25,2.65,5.3,2000,16,,https://www.precision-devices.com/products/all-products/pd-2160-1n/
+Precision Devices,PD.24603BR,sub,24,2239,39.46,4.98e-05,9.475,317.72,4.01,5.3,1800,16,,https://www.precision-devices.com/products/24-inch-drivers/pd-24603br/
+Precision Devices,PD.153C001,midbass,15,899,24.19,0.0001705,3.963,71.79,2.16,5.5,400,7.7,,https://www.precision-devices.com/products/15-inch-drivers/pd-153c001/
+Precision Devices,PD.153C002,midbass,15,853,18.9,0.0002613,3.978,38.39,1.28,5.6,550,6.75,,https://www.precision-devices.com/products/15-inch-drivers/pd-153c002/
+Precision Devices,PD.153ER,midbass,15,855.3,22.44,0.0002129,2.161,45.49,0.48,5.87,400,5.7,,https://www.precision-devices.com/products/15-inch-drivers/pd-153er/
+Precision Devices,PD.153ER/2,midbass,15,855.3,22.44,0.0002129,2.161,45.49,0.48,5.87,400,5.7,,https://www.precision-devices.com/products/all-products/pd-153er-2/
+Precision Devices,PD.154/2,sub,15,907.92,29.44,9.905e-05,1.749,95.05,1.03,6.5,500,7.7,,https://www.precision-devices.com/products/15-inch-drivers/pd-154-2/
+Precision Devices,PD.154C001,sub,15,897.5,25.5,0.0001051,7.843,87.97,1.8,6.1,900,8.2,,https://www.precision-devices.com/products/15-inch-drivers/pd-154c001/
+Precision Devices,PD.154NR1,midbass,15,897,18.5,0.0001425,3.468,52.99,1.73,6.1,900,8.5,,https://www.precision-devices.com/products/15-inch-drivers/pd-154nr1/
+Precision Devices,PD.1550/2,woofer,15,907.92,26.61,0.0001039,2.392,82.81,0.78,6.59,600,8.2,,https://www.precision-devices.com/products/15-inch-drivers/pd-1550-2/
+Precision Devices,PD.155NR1,midbass,15,895,28.6,0.0001201,5.869,123.1,2.35,5.4,1000,12,,https://www.precision-devices.com/products/15-inch-drivers/pd-155nr1/
+Precision Devices,PD.121/2,midrange,12,530.93,21.46,0.0001366,1.492,51.25,0,5.93,300,2.7,,https://www.precision-devices.com/products/12-inch-drivers/pd-121-2/
+Precision Devices,PD.1225C001,midbass,12,549.9,17.54,0.0003448,2.006,33.42,1.33,5.2,300,5.6,,https://www.precision-devices.com/products/12-inch-drivers/pd-1225c001/
+Precision Devices,PD.123C001,midbass,12,547,24.5,0.0002954,2.053,55.23,2.17,5.5,600,7.5,,https://www.precision-devices.com/products/12-inch-drivers/pd-123c001/
+Precision Devices,PD.124NR1,midbass,12,540,19.2,0.0001255,2.667,45.52,2.6,6.1,1100,8.5,,https://www.precision-devices.com/products/12-inch-drivers/pd-124nr1/
+Precision Devices,PD.124NR1-LR,midbass,12,540,22,0.0001895,2.556,51.52,1.47,6.1,1100,8.5,,https://www.precision-devices.com/products/12-inch-drivers/pd-124nr1-lr/
+Precision Devices,PD.103NR1,midrange,10,362,18,0.0001934,2.128,23.05,1.2,5.5,700,7.5,,https://www.precision-devices.com/products/10-inch-drivers/pd-103nr1/
+Precision Devices,PD.10251,midbass,10,349,17.5,0.0002964,4.91,34.68,0.65,5.2,350,6.6,,https://www.precision-devices.com/products/oem-exclusive-line/pd-10251/

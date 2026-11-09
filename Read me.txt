@@ -1,0 +1,47 @@
+HornLab - horn loudspeaker simulator
+=====================================
+
+HOW TO OPEN
+Double-click HornLab.html. It opens in your web browser (Chrome, Edge,
+Firefox or Safari). There is nothing to install. Everything runs on
+your own computer, and it works offline too; without an internet
+connection it just uses a standard font.
+
+WHAT IT DOES
+- Simulates front-loaded horns, tapped horns, offset-driver lines,
+  back-loaded horns, and sealed, vented or infinite-baffle boxes.
+- Horns can have up to 8 segments: conical, exponential, hyperbolic (T)
+  or parabolic.
+- Charts: SPL, maximum SPL (limited by Xmax and Pmax), impedance,
+  cone excursion, group delay, phase, impulse and step response,
+  throat impedance, air velocity, and power and efficiency.
+- Shape editor: drag the handles on the horn drawing to reshape it.
+  Double-click inside the horn to add a node. Select a node and press
+  Delete to remove it.
+- Optimiser, isobaric driver pairs, filters and EQ, and up to four
+  held traces for comparison.
+- "Fold & build" view: folds the horn into a cabinet as a serpentine
+  (back-and-forth legs) or a spiral round a central chamber. Drag any
+  leg to rearrange it; clashes and thin walls are flagged. Shows the
+  folded response against the straight design and gives a cut list.
+  The drawing can be copied as SVG or DXF.
+- Driver library: 429 B&C, Faital Pro and Precision Devices drivers,
+  taken from the makers' published datasheets.
+
+DRIVER DATA
+The library is also included as "Driver library.csv".
+- Where a maker does not publish Cms, Rms or Mmd, those values were
+  worked out from the published fs, Mms and Qms. That way the simulated
+  fs and Q match the datasheet.
+- Check the figures for any driver against its datasheet before
+  building. Each row in the CSV links to the page it came from.
+
+SAVING YOUR WORK
+Saved records live in the browser you used to save them. To move
+records or keep a backup, use Export to copy them as text, then use
+Import to bring them back in.
+
+UNITS
+Areas are in cm2, lengths in cm, volumes in litres, Mmd in grams,
+Le in mH and Xmax in mm.
+Eg is an RMS voltage. Excursion is shown as a peak value.
